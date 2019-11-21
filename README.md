@@ -1,2 +1,2 @@
-# Project_STD
-Zadanie 
+Franciszek Pelc
+Michał Sosnowski
